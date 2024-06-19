@@ -1,0 +1,17 @@
+{
+  "name": "live2d-widget-model-wild",
+  "version": "0.01",
+  "description": "wild live2d model for live2d-widget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/67373net/live2d-wild.git"
+  },
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/67373net/live2d-wild/issues"
+  },
+  "homepage": "https://github.com/67373net/live2d-wild#readme"
+}
